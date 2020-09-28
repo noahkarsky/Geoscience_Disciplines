@@ -1,0 +1,150 @@
+
+1.Physical Geology
+2.  Historical geology
+4.  Fluvial Geomorphology
+5.  Coastal Geomorphology
+6. Climatic Geomorphology
+7. Tropical geomorphology
+8.  Glacial geomorphology
+9.  Periglacial Geomorphology
+10.Geocryology
+11.Tectonic geomorphology
+12.  Submarine geomorphology            
+13.    Planetary geomorphology
+14.   Geomorphometry
+15.   Human geomorphology
+16.   Applied geomorphology
+17.   Biogeomorphology and Ecogeomorphology
+18.  Phytogeomorphology
+19   Hydrogeomorphology  
+20.  Engineering geomorphology
+21. Paleontology or Palaeontology
+22. Invertebrate Paleontology
+23. Vertebrate Paleontology
+24.   Micropaleontology
+25.   Palynology
+26.    Stratigraphical palynology
+27. Quaternary Palynology
+28.   Archaeological Palynology
+29.  Environmental Palynology
+30.   Paleobotany            
+31.  Paleoecology
+32.Palaeogeography
+33.Crystallography
+34.X-ray Crystallography  
+35.Mineralogy
+36.Descriptive mineralogy 
+37. Optical Mineralogy  
+38.Petrology     
+39.Petrogenesis 
+40. Petrography
+41. Igneous Petrology
+42.Sedimentary Petrology
+43.Metamorphic Petrology
+44.  Structural   Geology 
+45. Economic Geology
+46.  Ore Geology
+47.  Petroleum geology
+48.  Coal geology
+49.  Stratigraphy 
+50.  Biostratigraphy:
+51. Lithostratigraphy
+52. Chronostratigraphy
+53.  Magnetostratigraphy
+54. Tectonostratigraphy 
+55. Chemostratigraphy
+56. Sequence Stratigraphy
+57. Cyclostratigraphy
+58. Geochemistry
+59. Isotope geochemistry
+60. Isotope Geology
+61. Geochronology
+62. Thorium Geology
+63. Dendrochronology
+64. Thermochronology
+65. Tephrochronology
+66. Volcanology
+67. Geophysics
+68. Exploration Geophysics
+69. Seismology
+70.  Paleoseismology
+71.  Reflection seismology
+72. Refraction Seismology
+73.  Forensic Seismology
+74. Helioseismology
+75. Asteroseismology
+76. Meteorology
+77. Aviation meteorology          
+78.  Hydrometeorology
+79. Agricultural Meteorology
+80.  Nuclear Meteorology
+81.  Maritime Meteorology
+82.  Military Meteorology
+83.  Environmental Meteorology
+84.  Satellite Meteorology
+85. Forensic meteorology
+86. Polar meteorology
+87. Climatolog
+88. Applied Climatology
+89.  Paleoclimatology
+90.  Dendroclimatology
+91.   Hydrology
+92.  Hydrogeology /Geohydrology
+93.  Surface-water hydrology
+94. Isotope Hydrology
+95.  Forest hydrology
+96. Urban Hydrology
+97.  Wetland Hydrology
+98.   Ecohydrology
+99.  Statistical hydrology / Stochastic Hydrology
+100.  Hydroinformatics
+101.   Oceanography
+102.  Physical Oceanography
+103.   Geological Oceanography 
+104.  Biological Oceanography
+105.  Chemical Oceanography
+106.  Palaeooceanography 
+107.  Paleopedology
+108. Paleophycology
+109. Sedimentology
+110.  Marine Geology
+111.  Mining Geology
+112.  Engineering Geology
+113.  Planetary geology
+114.  Geotectonics    
+115.  Neotectonics
+116.  Quaternary Geology
+117.  Geoarchaeology
+118.  Himalayan geology
+119.  Cosmogony
+120.  Nuclear Geophysics
+121.  Photogeology
+122.  Remote Sensing
+123.  Environmental Geology
+124.  Ceramography
+125.  Limnology
+126.  Paleolimnology
+127.  Hydrobiology
+128.  Sedimentology
+129.  Geoinformatics
+130.  Geomatics
+131.  Gemology or gemmology
+132.  Pedology
+133.  Ore Dressing and Metallurgy
+134.  Materials Science
+135.  Nanogeoscience
+136.  Medical Geology
+137.  Geochemical Prospecting
+138.  Exploration Geochemistry
+139.  Field Geology
+140.  Gondwana Geology
+141.  Precambrian Geology
+142.  Military Geology
+143.  Astrogeology
+144.  Geodynamics
+145.  Modern Isotope Geochemistry
+146.  Geostatistics
+147.  Mathematical Geology
+148.  Environmental Geochemistry
+149.  Glaciology
+150.  Lunar Geology
